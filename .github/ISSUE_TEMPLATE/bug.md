@@ -1,6 +1,6 @@
 ---
 name: Bug
-about: バグ報告
+about: バグ報告についてのIssue
 title: ''
 labels: bug
 assignees: ''
