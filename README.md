@@ -4,3 +4,4 @@
 ## 作ってあるもの
 - pull_request_template.md
 - ISSUE_TEMPLATE/bug.md
+- ISSUE_TEMPLATE/future.md
