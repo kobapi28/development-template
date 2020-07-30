@@ -1,5 +1,5 @@
 ---
-name: Futere
+name: Future
 about: 新機能についてのIssue
 title: ''
 labels: enhancement
